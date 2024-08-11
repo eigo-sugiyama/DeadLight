@@ -24,5 +24,3 @@ location.reload();
 }
 ```
 * use `login("token");` then refresh the webpage ,and you will login automatically to the account using only token
-
-
